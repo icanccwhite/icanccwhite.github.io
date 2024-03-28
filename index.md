@@ -5,10 +5,11 @@ icanccwhite
 
 [Home](/) [Archives](/archives)
 
-[](/atom.xml "RSS Feed")
+Blog of icanccwhite
+-----------------------------------------
+email: icanccwhite@gmail.com
 
-
-
-[blog](/blog/patchwork组图心得.html)
+Academic:
+1.[patchwork组图心得](/blog/patchwork组图心得.html)
 
 [Home](/) [Archives](/archives)
