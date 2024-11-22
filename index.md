@@ -5,7 +5,7 @@ icanccwhite
 
 [Home](/) [Archives](/archives)
 
-Blog of icanccwhite
+Blog of icanccwhite: stories about life, study, and academics...
 -----------------------------------------
 email: icanccwhite@gmail.com
 Tel: +86 19256131214
