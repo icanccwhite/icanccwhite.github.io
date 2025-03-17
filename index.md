@@ -6,7 +6,7 @@
 
 Blog about life, study, and academics...
 -----------------------------------------
-email: icanccwhite@gmail.com
+email: icanccwhite@gicloud.com
 Tel: +86 19256131214
 
 
