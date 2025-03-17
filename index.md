@@ -16,6 +16,6 @@ Academic:
 
 2.[First Biology Question: did it get in my finger?](/blog/First_biology_question.html)
 
-3.[First research proposal](/blog/first proposal.html)
+3.[First research proposal](/blog/first_proposal.html)
 
 [Home](/) [Archives](/archives)
