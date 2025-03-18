@@ -7,21 +7,21 @@ date: "18/Mar./2025"
 
 
 
-This is a latex template I had modified for my paper publication:
+**This is a latex template I had modified for my paper publication:**
 
 1. [main.tex](/blog/Latex/main.tex)
 
-2. [sample.bib](/blog/Latex/sample.bib)
+2. [sample.bib ](/blog/Latex/sample.bib) BibTex
 
 3. [jabbrv.sty](/blog/Latex/jabbrv.sty)  About Automatic Journal Title Abbreviation Package for LaTeX
 
-4. [wlscirep.cls](/blog/Latex/wlscirep.cls) This is a file in  "template for submissions to Scientific Reports" that I have download from overleaf.
+4. [wlscirep.cls](/blog/Latex/wlscirep.cls) This included in  "Template for submissions to Scientific Reports [(Nature Publishing Group)](http://www.nature.com/srep/index.html)" was  download from overleaf.
 
-5. other files pls check overleaf template or DIY
+5. other files pls check overleaf "Templates" or DIY
 
    
 
-The functions I have added in the template:
+**The functions I have added in the template:**
 
 1. Table format
 
@@ -29,7 +29,7 @@ The functions I have added in the template:
 
 3. Watermarker
 
-4. OCRID
+4. ORCID
 
 5. Linenumbers
 
@@ -39,7 +39,9 @@ The functions I have added in the template:
 
    
 
-The suggested cmds (double check) for running above latex scripts:
+**The suggested cmds (double check) for running above latex scripts:**
+
+
 
 ```
 latexmk -C
