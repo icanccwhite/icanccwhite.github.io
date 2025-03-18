@@ -1,5 +1,9 @@
 # icanccwhite.github.io
 
+Welcome to my channel!
+
+
+
 Virtual personal website: stories about life, study, and academics...
 
 https://icanccwhite.github.io
