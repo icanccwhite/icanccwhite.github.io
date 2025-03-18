@@ -6,8 +6,12 @@
 
 Blog about life, study, and academics...
 -----------------------------------------
+Welcome to my channel!  ![img](./bilibili_药猜猜麻.png ) 
+
+This is me~ ![img](./62CC0EFFA890EA68B0F3DCDECFA7C18B.png)
+
 email: icanccwhite@icloud.com
-Tel: +86 192-5613-1214
+Tel: +86 192-5613-1214  
 
 
 

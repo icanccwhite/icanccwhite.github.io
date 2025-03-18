@@ -1,6 +1,43 @@
-The latex template I use for my paper publication:
+```title: "Latex template"
+author: icanccwhite
+output:
+  html_document: default
+date: "18/Mar./2025"
+```
 
-[draft template](/attachment/main.tex)
+
+
+This is a latex template I had modified for my paper publication:
+
+1. [main.tex](/blog/Latex/main.tex)
+
+2. [sample.bib](/blog/Latex/sample.bib)
+
+3. [jabbrv.sty](/blog/Latex/jabbrv.sty)  About Automatic Journal Title Abbreviation Package for LaTeX
+
+4. [wlscirep.cls](/blog/Latex/wlscirep.cls) This is a file in  "template for submissions to Scientific Reports" that I have download from overleaf.
+
+5. other files pls check overleaf template or DIY
+
+   
+
+The functions I have added in the template:
+
+1. Table format
+
+2. Figure layout format
+
+3. Watermarker
+
+4. OCRID
+
+5. Linenumbers
+
+6. Optional: page layout with red frame
+
+7. ...
+
+   
 
 The suggested cmds (double check) for running above latex scripts:
 
