@@ -15,9 +15,9 @@ date: "18/Mar./2025"
 
 3. [jabbrv.sty](/blog/Latex/jabbrv.sty)  About Automatic Journal Title Abbreviation Package for LaTeX
 
-4. [wlscirep.cls](/blog/Latex/wlscirep.cls) This included in  "Template for submissions to Scientific Reports [(Nature Publishing Group)](http://www.nature.com/srep/index.html)" was  download from overleaf.
+4. [wlscirep.cls](/blog/Latex/wlscirep.cls) This included in  "Template for submissions to Scientific Reports [(Nature Publishing Group)](http://www.nature.com/srep/index.html)" was  downloaded from Overleaf.
 
-5. other files pls check overleaf "Templates" or DIY
+5. other files pls check Overleaf "Templates" or DIY
 
    
 
