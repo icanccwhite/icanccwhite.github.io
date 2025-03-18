@@ -1,0 +1,165 @@
+\documentclass[fleqn,10pt,dvipsnames,colorlinks]{wlscirep}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{graphicx}  % Gør det muligt at indsætte billeder
+\usepackage{amsmath}  % Giver tisannotation uundværlige matematikting
+%\usepackage[danish]{babel}  % Danske betegnelser og orddeling
+%\renewcommand{\danishhyphenmins}{22}  % Bedre dansk orddeling
+\usepackage{lineno}
+%\linenumbers
+\usepackage{pdfpages}
+%\usepackage{subcaption}
+\usepackage{lipsum}  
+%figure position : package float conflict with floatrow
+%\usepackage{float}     
+%add watermark
+\usepackage{draftwatermark}
+\SetWatermarkLightness{ 0.95 }
+\SetWatermarkText{Draft}
+\SetWatermarkScale{ 2 }
+%table
+\newcommand{\beginsupplement}{%
+        \setcounter{table}{0}
+        \renewcommand{\thetable}{S\arabic{table}}%
+        \setcounter{figure}{0}
+        \renewcommand{\thefigure}{S\arabic{figure}}%
+     }
+%add text frame
+\usepackage{mdframed}
+%Draw a frame around the given text
+\newcommand{\framedtext}[1]{%
+\par%
+\noindent\fbox{%
+    \parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule}{#1}%
+}%
+}
+%table format
+\usepackage{tabularx}
+\usepackage{pgfplotstable}
+\usepackage{csvsimple}
+
+%table format
+\makeatletter
+\csvset{
+  autotabularcenter/.style={
+    file=#1,
+    after head=\csv@pretable\begin{tabular}{|*{\csv@columncount}{c|}}\csv@tablehead,
+    table head=\hline\csvlinetotablerow\\\hline,
+    late after line=\\,
+    table foot=\\\hline,
+    late after last line=\csv@tablefoot\end{tabular}\csv@posttable,
+    command=\csvlinetotablerow},
+  autobooktabularcenter/.style={
+    file=#1,
+    after head=\csv@pretable\begin{tabular}{*{\csv@columncount}{c}}\csv@tablehead,
+    table head=\toprule\csvlinetotablerow\\\midrule,
+    late after line=\\,
+    table foot=\\\bottomrule,
+    late after last line=\csv@tablefoot\end{tabular}\csv@posttable,
+    command=\csvlinetotablerow},
+}
+\makeatother
+\newcommand{\csvautobooktabularcenter}[2][]{\csvloop{autobooktabularcenter={#2},#1}}
+\usepackage{indentfirst} 
+\setlength{\parindent}{2em}
+%table title width
+%\usepackage[margin=1in]{geometry}
+\usepackage{siunitx}
+\usepackage{booktabs}
+%\usepackage{csvsimple}
+
+\sisetup{
+    round-mode=none,
+    uncertainty-mode = separate
+}
+\newcolumntype{Z}{S[table-format=-1.3e1, round-precision=1, scientific-notation=false]}
+
+
+% If you need to use a subfigure, make sure it's loaded after the caption package
+%figure caption position
+\usepackage{floatrow}
+
+\usepackage{caption}
+\usepackage{subcaption}
+%side caution
+%\usepackage{graphicx}
+\usepackage[label font=bf,labelformat=simple]{subfig}% <-- changed
+\floatsetup[figure]{style=plain,subcapbesideposition=top}
+\newbox{\bigpicturebox}
+
+\floatsetup[table]{capposition=top}
+%\thisfloatsetup{heightadjust=all,valign=c}
+%\usepackage[export]{adjustbox}
+%\captionsetup[figure]{font=25}
+\DeclareCaptionFont{myfont}{\fontsize{7pt}{7pt}\selectfont}
+
+\captionsetup{
+  font=myfont,
+  labelfont=bf,
+  justification=justified,
+  format=plain
+}
+
+\usepackage[flushleft]{threeparttable}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{trace}
+
+
+\usepackage{lastpage}
+
+%font specification
+%\usepackage{fontspec}
+%\setmainfont{Tex Gyre Pagella}
+
+%---------------- show page layout. Could you not use it in a real document?
+%\usepackage{showframe}
+%\renewcommand\ShowFrameLinethickness{0.15pt}
+%\renewcommand*\ShowFrameColor{\color{red}}
+%---------------------------------------------------------------%
+\usepackage{marvosym}
+\usepackage{orcidlink}
+
+\usepackage{lineno}
+\linenumbers
+\usepackage{pdflscape}
+\usepackage{soul}
+\usepackage{tikz}
+
+
+\begin{document}
+$\circ $
+$\bullet$
+$\bigcirc$
+Some Text \tikz\draw[black,fill=black] (0,0) circle (1ex); more text
+
+    
+\so{Expression}	%字母间隔
+\caps{Expression}	%全大写
+\ul{Expression}	%下划线
+\hl{Expression}	%高亮
+\st{Expression}	%删除线
+
+{\color{red}\st{Expression}}		%设置文字和删除线的颜色为红色
+{\color{pink}\st{Expression}}
+
+a \cdot b
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=0.8\textwidth]{Isoform_paper_Copy_Figure1.pdf}
+\caption{Isoform expression levels in different tissues. \label{fig:isoform}}
+\end{figure}
+
+
+
+
+The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. The authors declare no competing interests.
+
+\bibliography{Isoform_paper_Copy}
+
+\end{document}
+
+
