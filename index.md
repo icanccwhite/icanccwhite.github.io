@@ -1,23 +1,21 @@
-
-[icanccwhite](/)
+[药猜猜麻](/)
 ================
 
-[Home](/) [Archives](/archives)
+Welcome to my channel! <img src="./bilibili_药猜猜麻.png" alt="bilibili" width="300" height="300"> <img src="./62CC0EFFA890EA68B0F3DCDECFA7C18B.png" alt="Discord" width="300" height="300">
 
-Blog about life, study, and academics...
------------------------------------------
-Welcome to my channel!  ![bilibili](./bilibili_药猜猜麻.png){: width="20%"} 
 
-This is me~ ![Discord](./62CC0EFFA890EA68B0F3DCDECFA7C18B.png){: width="10%"}
 
 email: icanccwhite@icloud.com
+
 Tel: +86 192-5613-1214  
 
 
 
-Academic:
+Blog about life, study, and academics...
+-----------------------------------------
+[Home](/) [Archives](/archives)
 
-4.[Latex template for share](blog/Latex_template.md)
+4.[Latex template for share](blog/Latex_template.html)
 
 3.[patchwork组图心得](/blog/patchwork组图心得.html)
 
