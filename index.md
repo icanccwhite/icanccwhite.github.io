@@ -10,9 +10,12 @@
 
 *A space for sharing life, studies, and academic adventures*
 
-[![Email](https://img.shields.io/badge/Email-icanccwhite@icloud.com-blue?style=flat&logo=apple)](mailto:icanccwhite@icloud.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B86%20192--5613--1214-green?style=flat&logo=phone)](tel:+8619256131214)
-[![Discord](https://img.shields.io/badge/Discord-Community-purple?style=flat&logo=discord)](./62CC0EFFA890EA68B0F3DCDECFA7C18B.png)
+## 📞 Contact Information
+
+<div align="center">
+
+**📧 Email:** [`icanccwhite@icloud.com`](mailto:icanccwhite@icloud.com)  
+**📞 Phone:** [`+86 192-5613-1214`](tel:+8619256131214)
 
 </div>
 
