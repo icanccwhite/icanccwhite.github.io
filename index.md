@@ -15,6 +15,8 @@ Blog about life, study, and academics...
 -----------------------------------------
 [Home](/) [Archives](/archives)
 
+6.[personality](blog/personality.html)
+
 5.[Grandfather's channel](blog/Grandfather's_channel.html)
 
 4.[Latex template for share](blog/Latex_template.html)
