@@ -17,16 +17,17 @@ Blog about life, study, and academics...
 
 7.[Take a journey with questions](blog/Take a journey with questions.md)
 
-6.[personality](blog/personality.html)
+6.[personality](blog/personality.md)
 
-5.[Grandfather's channel](blog/Grandfather's_channel.html)
+5.[Grandfather's channel](blog/Grandfather's_channel.md)
 
-4.[Latex template for share](blog/Latex_template.html)
+4.[Latex template for share](blog/Latex_template.md)
 
-3.[patchwork组图心得](/blog/patchwork组图心得.html)
+3.[patchwork组图心得](/blog/patchwork组图心得.md)
 
-2.[First Biology Question: did it get in my finger?](/blog/First_biology_question.html)
+2.[First Biology Question: did it get in my finger?](/blog/First_biology_question.md)
 
-1.[First research proposal](/blog/first_proposal.html)
+1.[First research proposal](/blog/first_proposal.md)
 
 [Home](/) [Archives](/archives)
+
