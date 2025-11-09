@@ -15,6 +15,8 @@ Blog about life, study, and academics...
 -----------------------------------------
 [Home](/) [Archives](/archives)
 
+7.[Take a journey with questions](blog/Take a journey with questions.md)
+
 6.[personality](blog/personality.html)
 
 5.[Grandfather's channel](blog/Grandfather's_channel.html)
