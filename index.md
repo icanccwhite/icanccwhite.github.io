@@ -1,33 +1,48 @@
-[药猜猜麻](/)
-================
+# 药猜猜麻
 
-Welcome to my channel! <img src="./bilibili_药猜猜麻.png" alt="bilibili" width="300" height="300"> <img src="./62CC0EFFA890EA68B0F3DCDECFA7C18B.png" alt="Discord" width="300" height="300">
-
-
-
-email: icanccwhite@icloud.com
-
-Tel: +86 192-5613-1214  
+<div align="center">
 
 
 
-Blog about life, study, and academics...
------------------------------------------
-[Home](/) [Archives](/archives)
+### Welcome to My Channel! 👋
 
-7.[Take a journey with questions](blog/Take a journey with questions.md)
+ <img src="./bilibili_药猜猜麻.png" alt="bilibili" width="300" height="300"><img src="./62CC0EFFA890EA68B0F3DCDECFA7C18B.png" alt="Discord" width="300" height="300">
 
-6.[personality](blog/personality.md)
+*A space for sharing life, studies, and academic adventures*
 
-5.[Grandfather's channel](blog/Grandfather's_channel.md)
+[![Email](https://img.shields.io/badge/Email-icanccwhite@icloud.com-blue?style=flat&logo=apple)](mailto:icanccwhite@icloud.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B86%20192--5613--1214-green?style=flat&logo=phone)](tel:+8619256131214)
+[![Discord](https://img.shields.io/badge/Discord-Community-purple?style=flat&logo=discord)](./62CC0EFFA890EA68B0F3DCDECFA7C18B.png)
 
-4.[Latex template for share](blog/Latex_template.md)
+</div>
 
-3.[patchwork组图心得](/blog/patchwork组图心得.md)
+---
 
-2.[First Biology Question: did it get in my finger?](/blog/First_biology_question.md)
+## 📚 Latest Blog Posts
 
-1.[First research proposal](/blog/first_proposal.md)
+| #    | Title                                                        | Category   |
+| ---- | ------------------------------------------------------------ | ---------- |
+| 7    | [Take a journey with questions](blog/Take%20a%20journey%20with%20questions.md) | 🧠 Thoughts |
+| 6    | [Personality](blog/personality.md)                           | 🎭 Personal |
+| 5    | [Grandfather's channel](blog/Grandfather's_channel.md)       | 👨‍🦳 Family  |
+| 4    | [Latex template for share](blog/Latex_template.md)           | 📄 Academic |
+| 3    | [Patchwork组图心得](blog/patchwork组图心得.md)               | 🎨 Tutorial |
+| 2    | [First Biology Question: did it get in my finger?](blog/First_biology_question.md) | 🔬 Science  |
+| 1    | [First research proposal](blog/first_proposal.md)            | 📊 Research |
 
-[Home](/) [Archives](/archives)
+---
 
+## 🗂️ Quick Navigation
+
+<div align="center">
+[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*✨ Life is a journey of continuous learning and discovery ✨*
+
+</div>
