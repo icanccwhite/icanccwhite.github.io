@@ -54,3 +54,18 @@ pdflatex main
 
 latexmk -f -pdf main.tex
 ```
+
+---
+
+<div align="center">
+
+[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+*✨ Life is a journey of continuous learning and discovery ✨*
+
+</div>

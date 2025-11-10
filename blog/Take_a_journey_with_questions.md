@@ -22,3 +22,17 @@ Before I became familiar with youth hostels, I usually chose to visit a city whe
 
 My biggest trip so far was for my biology research. In the last year of my undergraduate studies, I wrote a mini proposal to my supervisor. It was the first and last time I visited his office. I usually did experiments in his lab from day to night. His lab focused on microbiology. I worked for him right after finishing my work at the student union. It was a fortunate period with a salary. After that, I wrote my questions about eukaryotes and bioinformatics. My supervisor supported me in finding a new lab. 
 
+---
+
+<div align="center">
+
+[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+*✨ Life is a journey of continuous learning and discovery ✨*
+
+</div>

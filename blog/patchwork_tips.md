@@ -35,3 +35,17 @@ patchwork包使用注意事项：
 
 5. 组图过程虽然复杂，但是尽量不要通过System.sleep()延长时间。理应返修，寻找真正的影响效率的代码块并修改提升。
 
+---
+
+<div align="center">
+
+[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+*✨ Life is a journey of continuous learning and discovery ✨*
+
+</div>

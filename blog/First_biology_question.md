@@ -9,3 +9,18 @@ date: "27/May./2024"
 
 
 I still remember in my childhood, playing by the pond next to the road in my grandparents’ country house. I could see some transparent worms in the water, but they seem disappeared when you touched them once. I feared it had been in my finger and just used sticks after that time. 
+
+---
+
+<div align="center">
+
+[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+*✨ Life is a journey of continuous learning and discovery ✨*
+
+</div>

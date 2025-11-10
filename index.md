@@ -44,7 +44,6 @@
 ---
 
 <div align="center">
-
 [🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
 
 </div>
