@@ -10,10 +10,10 @@ The last time I saw my maternal grandfather, he remembered that I was very picky
 
 ---
 
+<br>
+
 <div align="center">
-
-[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
-
+[🏠 Home](https://icanccwhite.github.io) | [📁 Archives](archives/) | [📧 Contact](mailto:icanccwhite@icloud.com)
 </div>
 
 ---

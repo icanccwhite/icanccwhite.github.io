@@ -57,9 +57,10 @@ latexmk -f -pdf main.tex
 
 ---
 
-<div align="center">
+<br>
 
-[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+<div align="center">
+[🏠 Home](https://icanccwhite.github.io) | [📁 Archives](archives/) | [📧 Contact](mailto:icanccwhite@icloud.com)
 
 </div>
 
@@ -67,4 +68,3 @@ latexmk -f -pdf main.tex
 
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
-

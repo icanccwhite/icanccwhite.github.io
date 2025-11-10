@@ -12,14 +12,16 @@ I was amazed by the animal biology course and wanna communicate more with the le
 
 ---
 
-<div align="center">
+<br>
 
-[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+<div align="center">
+[🏠 Home](https://icanccwhite.github.io) | [📁 Archives](archives/) | [📧 Contact](mailto:icanccwhite@icloud.com)
 
 </div>
+
+
 
 ---
 
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
-

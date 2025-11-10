@@ -24,9 +24,10 @@ My biggest trip so far was for my biology research. In the last year of my under
 
 ---
 
-<div align="center">
+<br>
 
-[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+<div align="center">
+[🏠 Home](https://icanccwhite.github.io) | [📁 Archives](archives/) | [📧 Contact](mailto:icanccwhite@icloud.com)
 
 </div>
 
