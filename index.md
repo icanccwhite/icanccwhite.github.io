@@ -1,4 +1,4 @@
-# 药猜猜麻
+<h1>药猜猜麻</h1>
 
 <div align="center">
 <h3>Welcome to My Channel! 👋</h3>
@@ -28,7 +28,9 @@
 
 ---
 
-## 📚 Latest Blog Posts
+<br>
+
+<h2>📚 Latest Blog Posts</h2>
 
 | #    | Title                                                        | Category   |
 | ---- | ------------------------------------------------------------ | ---------- |
@@ -42,9 +44,10 @@
 
 ---
 
+<br>
+
 <div align="center">
 [🏠 Home](https://icanccwhite.github.io) | [📁 Archives](archives/) | [📧 Contact](mailto:icanccwhite@icloud.com)
-
 
 </div>
 
