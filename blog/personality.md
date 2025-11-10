@@ -19,6 +19,6 @@ The last time I saw my maternal grandfather, he remembered that I was very picky
 ---
 
 <div align="center">
-*✨ Life is a journey of continuous learning and discovery ✨*
-
+<p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
 </div>
+
