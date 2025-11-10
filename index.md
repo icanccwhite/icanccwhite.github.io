@@ -12,16 +12,19 @@
 <br>
 <br>
 
-*A space for sharing life, studies, and academic adventures*
+
+
+<p><em>A space for sharing life, studies, and academic adventures</em></p>
 
 <br>
 <br>
 
-## 📞 Contact Information
+<h2>📞 Contact Information</h2>
 
-**📧 Email:** [`icanccwhite@icloud.com`](mailto:icanccwhite@icloud.com)  
-**📞 Phone:** [`+86 192-5613-1214`](tel:+8619256131214)
-
+<p>
+<strong>📧 Email:</strong> <a href="mailto:icanccwhite@icloud.com">icanccwhite@icloud.com</a><br>
+<strong>📞 Phone:</strong> <a href="tel:+8619256131214">+86 192-5613-1214</a>
+</p>
 </div>
 
 ---
@@ -30,7 +33,7 @@
 
 | #    | Title                                                        | Category   |
 | ---- | ------------------------------------------------------------ | ---------- |
-| 7    | [Take a journey with questions](blog/Take%20a%20journey%20with%20questions.md) | 🧠 Thoughts |
+| 7    | [Take a journey with questions](blog/Take_a_journey_with_questions.md) | 🧠 Thoughts |
 | 6    | [Personality](blog/personality.md)                           | 🎭 Personal |
 | 5    | [Grandfather's channel](blog/Grandfather's_channel.md)       | 👨‍🦳 Family  |
 | 4    | [Latex template for share](blog/Latex_template.md)           | 📄 Academic |
@@ -49,7 +52,6 @@
 ---
 
 <div align="center">
-
 *✨ Life is a journey of continuous learning and discovery ✨*
 
 </div>
