@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Welcome to My Channel! 👋
+### <h3>Welcome to My Channel! 👋</h3>
 
 <br>
 
@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-[🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
+[🏠 Home]() | [📁 Archives](archives/) | [📧 Contact](mailto:icanccwhite@icloud.com)
 
 </div>
 
@@ -52,5 +52,4 @@
 
 <div align="center">
 *✨ Life is a journey of continuous learning and discovery ✨*
-
 </div>
