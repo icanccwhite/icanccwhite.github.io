@@ -1,8 +1,7 @@
 # 药猜猜麻
 
 <div align="center">
-
-### <h3>Welcome to My Channel! 👋</h3>
+<h3>Welcome to My Channel! 👋</h3>
 
 <br>
 
@@ -51,5 +50,6 @@
 ---
 
 <div align="center">
-*✨ Life is a journey of continuous learning and discovery ✨*
+<p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
+
 </div>
