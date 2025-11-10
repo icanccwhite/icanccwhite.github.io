@@ -46,6 +46,6 @@ patchwork包使用注意事项：
 ---
 
 <div align="center">
-*✨ Life is a journey of continuous learning and discovery ✨*
+<p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
 
 </div>
