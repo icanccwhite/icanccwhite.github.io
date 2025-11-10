@@ -16,7 +16,7 @@ I don't know why my uncle didn't come to Taian with them this time. For me, the 
 
 
 
-Before I became familiar with youth hostels, I usually chose to visit a city where a relative lived. A roommate introduced me to them when we decided to travel to Xi'an together after field research during my sophomore year summer vacation. After learning the ropes, I started traveling to many different cities in China and abroad. I took different themed journeys by myself: visiting friends who had left, visiting universities for career advice, and visiting geology sites and fountains for relaxation. I tried traveling with others, but it usually ended in failure and unhappiness. So, I had to learn more skills to help me travel by myself. 
+Before I became familiar with youth hostels, I usually chose to visit a city where a relative lived. A roommate introduced them to me when we decided to travel to Xi'an together after field research during my sophomore year summer vacation. After learning the ropes, I started traveling to many different cities in China and abroad. I took different themed journeys by myself: visiting friends who had left, visiting universities for career advice, and visiting geology sites and fountains for relaxation. I tried traveling with others, but it usually ended in failure and unhappiness. So, I had to learn more skills to help me travel by myself. 
 
 
 
@@ -35,4 +35,3 @@ My biggest trip so far was for my biology research. In the last year of my under
 
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
-
