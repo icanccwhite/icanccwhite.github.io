@@ -2,17 +2,23 @@
 
 <div align="center">
 
-
-
 ### Welcome to My Channel! 👋
 
- <img src="./bilibili_药猜猜麻.png" alt="bilibili" width="300" height="300"><img src="./62CC0EFFA890EA68B0F3DCDECFA7C18B.png" alt="Discord" width="300" height="300">
+<br>
+
+<img src="./bilibili_药猜猜麻.png" alt="bilibili" width="200" height="200" style="margin: 10px;"> 
+<img src="./62CC0EFFA890EA68B0F3DCDECFA7C18B.png" alt="Discord" width="200" height="200" style="margin: 10px;">
+
+<br>
+<br>
 
 *A space for sharing life, studies, and academic adventures*
 
+<br>
+<br>
+
 ## 📞 Contact Information
 
-<div align="center">
 **📧 Email:** [`icanccwhite@icloud.com`](mailto:icanccwhite@icloud.com)  
 **📞 Phone:** [`+86 192-5613-1214`](tel:+8619256131214)
 
@@ -34,9 +40,8 @@
 
 ---
 
-## 🗂️ Quick Navigation
-
 <div align="center">
+
 [🏠 Home](/) | [📁 Archives](/archives) | [📧 Contact](mailto:icanccwhite@icloud.com)
 
 </div>
