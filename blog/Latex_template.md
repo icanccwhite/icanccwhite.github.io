@@ -1,4 +1,5 @@
-```title: "Latex template"
+```
+title: "Latex template"
 author: icanccwhite
 output:
   html_document: default

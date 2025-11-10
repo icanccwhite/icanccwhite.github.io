@@ -34,7 +34,7 @@
 | 6    | [Personality](blog/personality.md)                           | 🎭 Personal |
 | 5    | [Grandfather's channel](blog/Grandfather's_channel.md)       | 👨‍🦳 Family  |
 | 4    | [Latex template for share](blog/Latex_template.md)           | 📄 Academic |
-| 3    | [Patchwork组图心得](blog/patchwork组图心得.md)               | 🎨 Tutorial |
+| 3    | [Patchwork tips](blog/patchwork_tips.md)                     | 🎨 Tutorial |
 | 2    | [First Biology Question: did it get in my finger?](blog/First_biology_question.md) | 🔬 Science  |
 | 1    | [First research proposal](blog/first_proposal.md)            | 📊 Research |
 

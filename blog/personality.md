@@ -1,2 +1,10 @@
+```markdown
+title: "personality"
+author: icanccwhite
+output:
+  html_document: default
+date: "9/Nov./2025"
+```
+
 The last time I saw my maternal grandfather, he remembered that I was very picky as a child. As a picky eater, I would separate the leaves of Chinese chives from boiled dumplings. That was true; I didn't want to eat too much meat. But that changed when I grew up. However, pork still doesn't taste good to me. My grandfather respected my preferences, but my mother and grandmother always insisted on what they cooked. For example, my elder sister's favorite food is fried leek dumplings, and they would feed them to me as well. I often struggle with the inertia of my upbringing. An attitude that insists on freedom of choice describes me exactly. 
 

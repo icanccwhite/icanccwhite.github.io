@@ -1,3 +1,15 @@
+```markdown
+title: "patchwork (R package) tips"
+author: icanccwhite
+output:
+  html_document: default
+date: "9/Nov./2025"
+```
+
+
+
+
+
 patchwork包使用注意事项：
 
 1. 每一个分图的细节参数补充完善后组装，简化组装过程。组装过程中很可能会返修分图代码，应尽量保证分图代码的可读性。

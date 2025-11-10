@@ -1,3 +1,13 @@
+```markdown
+title: "Take a journey with questions"
+author: icanccwhite
+output:
+  html_document: default
+date: "9/Nov./2025"
+```
+
+
+
 The first travel invitation I ever rejected was to climb Mount Tai. It came from my aunt and cousin when I was in primary school. I remember they asked me to skip school on weekdays. I still had homework to do. So, I rejected the invitation. There were still three tickets. They traveled to Taian with my cousin's schoolmate and neighbor. I had traveled with them to Dalian before. It was a fascinating trip and the beginning of a boat journey. We played cards on the boat's bed. After arriving in Dalian, we visited the famous aquarium. 
 
 

@@ -1,10 +1,10 @@
----
+```markdown
 title: "My first research proposal"
 author: icanccwhite
 output:
   html_document: default
 date: "1/Jun./2024"
----
+```
 
 My first research proposal failed during my freshman year. 
 
