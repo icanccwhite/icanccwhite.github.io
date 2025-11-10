@@ -35,4 +35,3 @@ My biggest trip so far was for my biology research. In the last year of my under
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
 
-</div>

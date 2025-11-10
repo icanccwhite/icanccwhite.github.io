@@ -25,4 +25,3 @@ I recall my final visit to his home during the winter. I squatted down on the wi
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
 
-</div>

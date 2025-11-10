@@ -23,4 +23,3 @@ I still remember in my childhood, playing by the pond next to the road in my gra
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
 
-</div>

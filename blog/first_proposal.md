@@ -23,4 +23,3 @@ I was amazed by the animal biology course and wanna communicate more with the le
 <div align="center">
 <p><em>✨ Life is a journey of continuous learning and discovery ✨<em><p>
 
-</div>
