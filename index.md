@@ -34,6 +34,7 @@
 
 | #    | Title                                                        | Category   |
 | ---- | ------------------------------------------------------------ | ---------- |
+| 8    | [Shame of word loss](blog/Shame_of_word_loss.md)             | 🎭 Personal |
 | 7    | [Take a journey with questions](blog/Take_a_journey_with_questions.md) | 🧠 Thoughts |
 | 6    | [Personality](blog/personality.md)                           | 🎭 Personal |
 | 5    | [Grandfather's channel](blog/Grandfather's_channel.md)       | 👨‍🦳 Family  |
