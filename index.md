@@ -1,11 +1,11 @@
-<h1>药猜猜麻</h1>
+<h1>药猜猜爱</h1>
 
 <div align="center">
 <h3>Welcome to My Channel! 👋</h3>
 
 <br>
 
-<img src="./bilibili_药猜猜麻.png" alt="bilibili" width="200" height="200" style="margin: 10px;"> 
+<img src="./bilibili_药猜猜爱.png" alt="bilibili" width="200" height="200" style="margin: 10px;"> 
 <img src="./62CC0EFFA890EA68B0F3DCDECFA7C18B.png" alt="Discord" width="200" height="200" style="margin: 10px;">
 
 <br>
